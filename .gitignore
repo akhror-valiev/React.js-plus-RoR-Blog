@@ -31,3 +31,11 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+
+# Do not push up envvv files.
+.env
+.env.development  
+
+
+
+
